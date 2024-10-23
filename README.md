@@ -5,11 +5,25 @@ This repository contains code and analysis related to **image segmentation** usi
 ## Project Overview
 
 The goal of this project is to automate the detection and segmentation of particles from **SEM (Scanning Electron Microscopy)** images and extract their geometrical parameters (e.g., size, shape). Afterward, the data is used to perform statistical analysis, including size distribution, regression models, and advanced visualizations.
-### Example of the image
+
+#### Example of the image
 <div style="display: flex; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/DexterChe/ML_img_segm_and_analysis/main/image_example/D50_10kV_1_row_005.tif" alt="Example image" width="45%"/>
   <img src="https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/D50_10kV_1_row_005%20Segmented.tif" alt="Segmented image" width="45%"/>
 </div>
+
+#### Distributions
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/KDE_for_doses.png" alt="Bar plot A vs currents" width="45%"/>
+  <img src="https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/KDE_for_currents.png" alt="Bar plot A vs dose factor" width="45%"/>
+</div>
+
+#### Analysis
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/Bar_plot_A_vs_dose_factor.png" alt="Bar plot A vs dose factor" width="45%"/> 
+  <img src="https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/Bar_plot_A_vs_currents.png" alt="Bar plot A vs currents" width="45%"/>
+</div>
+
 
 ### Key Features:
 - **Image Segmentation**: Uses machine learning techniques to detect particles in SEM images.
