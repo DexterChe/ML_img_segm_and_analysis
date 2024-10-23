@@ -7,16 +7,10 @@ This repository contains code and analysis related to **image segmentation** usi
 The goal of this project is to automate the detection and segmentation of particles from **SEM (Scanning Electron Microscopy)** images and extract their geometrical parameters (e.g., size, shape). Afterward, the data is used to perform statistical analysis, including size distribution, regression models, and advanced visualizations.
 
 #### Example of the image
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="text-align: center; width: 45%;">
-    <p><strong>Original image</strong></p>
-    <img src="https://raw.githubusercontent.com/DexterChe/ML_img_segm_and_analysis/main/image_example/D50_10kV_1_row_005.tif" alt="Example image" width="100%"/>
-  </div>
-  <div style="text-align: center; width: 45%;">
-    <p><strong>Segmented image</strong></p>
-    <img src="https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/D50_10kV_1_row_005%20Segmented.tif" alt="Segmented image" width="100%"/>
-  </div>
-</div>
+| Original image | Segmented image |
+|:--------------:|:---------------:|
+| ![Original image](https://raw.githubusercontent.com/DexterChe/ML_img_segm_and_analysis/main/image_example/D50_10kV_1_row_005.tif) | ![Segmented image](https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/D50_10kV_1_row_005%20Segmented.tif) |
+| **Original image** | **Segmented image** |
 
 #### Distributions
 <div style="display: flex; justify-content: space-between;">
