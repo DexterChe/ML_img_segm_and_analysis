@@ -1,10 +1,10 @@
 # Machine Learning Image Segmentation and Particle Analysis
 
-This repository contains code and analysis related to **image segmentation** using machine learning techniques applied to **particle analysis**. The main focus is on segmenting particles in microscopy images, extracting their geometrical features, and conducting a detailed statistical analysis.
+This repository contains code and analysis related to **image segmentation** using machine learning techniques applied to **analysis offerroelectric domain**. The main focus is on segmenting particles in microscopy images, extracting their geometrical features, and conducting a detailed statistical analysis.
 
 ## Project Overview
 
-The goal of this project is to automate the detection and segmentation of particles from **SEM (Scanning Electron Microscopy)** images and extract their geometrical parameters (e.g., size, shape). Afterward, the data is used to perform statistical analysis, including size distribution, regression models, and advanced visualizations.
+The goal of this project is to automate the detection and segmentation of domains/particles from **SEM (Scanning Electron Microscopy)** images and extract their geometrical parameters (e.g., size, shape). Afterward, the data is used to perform statistical analysis, including size distribution, regression models, and advanced visualizations.
 
 #### Example of the image
 | Original image | Segmented image |
