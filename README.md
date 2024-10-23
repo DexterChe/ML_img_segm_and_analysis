@@ -62,7 +62,7 @@ The goal of this project is to automate the detection and segmentation of partic
 
 ## Example Data
 
-A folder named `image_example` contains sample SEM images used for segmentation and analysis. You can replace these images with your own SEM images for custom analysis.
+A folder named `image_example` contains sample SEM images used for segmentation and analysis. You can replace these images with your own SEM images for custom analysis. A folder named `examples_results` contains examples of result: segmented image, KDE plot and bar plots.
 
 ## Future Enhancements
 
