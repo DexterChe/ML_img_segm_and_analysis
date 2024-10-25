@@ -9,7 +9,7 @@ The goal of this project is to automate the detection and segmentation of domain
 #### Example of the image
 | Original image | Segmented image |
 |:--------------:|:---------------:|
-| ![Original image](https://raw.githubusercontent.com/DexterChe/ML_img_segm_and_analysis/main/image_example/D50_10kV_1_row_005.tif) | ![Segmented image](https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/D50_10kV_1_row_005%20Segmented.tif) |
+| ![Original image](https://raw.githubusercontent.com/DexterChe/ML_img_segm_and_analysis/main/image_example/D50_10kV_1_row_005.png) | ![Segmented image](https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/D50_10kV_1_row_005%20Segmented.png) |
 
 #### Distributions
 <div style="display: flex; justify-content: space-between;">
