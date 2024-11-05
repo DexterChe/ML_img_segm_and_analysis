@@ -11,6 +11,9 @@ The goal of this project is to automate the detection and segmentation of domain
 |:--------------:|:---------------:|
 | ![Original image](https://raw.githubusercontent.com/DexterChe/ML_img_segm_and_analysis/main/image_example/D50_10kV_1_row_005.png) | ![Segmented image](https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/D50_10kV_1_row_005%20Segmented.png) |
 
+#### Assess of particle segmentation quality
+![Assess of particle segmentation quality](https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/1_DF25_600pA_005_FastSAM_s_result_crop_compare_2.png)
+
 #### Distributions
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/DexterChe/ML_img_segm_and_analysis/blob/main/examples_results/KDE_for_doses.png" alt="Bar plot A vs currents" width="45%"/>
